@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Unit 1 - Kotlin Basics">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Happy Birthday.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Lemonade.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Dice Roller.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
