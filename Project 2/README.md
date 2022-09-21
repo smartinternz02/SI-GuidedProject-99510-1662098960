@@ -1,4 +1,4 @@
-GoStore: [Internship Program Project](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin)
+GoStore: [Internship Program Project](https://github.com/smartinternz02/SI-GuidedProject-99510-1662098960/tree/master/Project%202)
 ==================================
 
 ![](https://github.com/noobshubham/GoStore/blob/master/preview/mockups/banner.png)
@@ -13,11 +13,6 @@ Additional Feature
 
 Screenshot
 ------------
-  
-![](https://github.com/noobshubham/GoStore/blob/master/preview/mockups/registration.png)
-![](https://github.com/noobshubham/GoStore/blob/master/preview/mockups/map_part.png)
-![](https://github.com/noobshubham/GoStore/blob/master/preview/mockups/grocery%20list.png)
-
 
 Architecture
 ------------
